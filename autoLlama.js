@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Auto Llama
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        *://*.deviantart.com/*
+// @namespace    https://github.com/flotos/autoLlama
+// @version      1.0
+// @description  Follow&Like automatically on tumblr
+// @author       Florian Peyron | flotos
+// @match        *://*.tumblr.com/search*
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/flotos/autoLlama/master/autoLlama.js
+// @updateURL    https://raw.githubusercontent.com/flotos/autoLlama/master/autoLlama.js
 // @run-at       document-end
 // ==/UserScript==
 
